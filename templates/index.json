@@ -1,0 +1,313 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "fading-images": {
+      "type": "fading-images",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner3.png",
+            "slide_title1": "COMFORTABLE",
+            "slide_title2": ""
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/header_image.png",
+            "slide_title1": "SUSTAINABLE",
+            "slide_title2": ""
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/kristijan-arsov-URwxiTBU0po-unsplash.jpg",
+            "slide_title1": "#BUILTTOROAM",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-3",
+        "image-2"
+      ],
+      "settings": {
+        "title_lines": "1",
+        "title_font": "heading",
+        "title_size": 85,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 4,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 6,
+        "desktop_height": "100vh",
+        "mobile_height": "500px",
+        "lazyload_images": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Sustainable Clothing",
+        "title": "For every shirt you buy, we plant a tree.",
+        "text": "<p>We're committed to restoring forests, using sustainable fabrics, reducing our carbon footprint, and creating a healthier environment for everyone. By choosing Roam Wear, you're not just buying a t-shirt; you're investing in the health of our planet, one tree at a time.</p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/dan-otis-OYFHT4X5isg-unsplash.jpg",
+        "layout": "left",
+        "height": 650,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "goodapi_sprout_badge_dir3KF": {
+          "type": "shopify://apps/goodapi-sprout/blocks/badge/7db5ee24-2195-4099-b98e-1547c600e4aa",
+          "settings": {
+            "custom_classes": "",
+            "top_spacing": 0,
+            "bottom_spacing": 0
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "buy_buttons",
+        "goodapi_sprout_badge_dir3KF",
+        "description"
+      ],
+      "settings": {
+        "featured_product": "organic-bamboo-t-shirt",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I'm obsessed with these eco-friendly tees - worth every penny for their soft, stylish feel & responsible production. Supporting a startup that prioritizes people and planet? Absolutely priceless!</p>",
+            "author": "Lena R.",
+            "author_info": "Asheville, NC"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Love this t-shirt. Wore it all day yesterday while hanging with my grandkids. I had a pink one arrive in the mail and put it on this morning. These shirts are so comfortable and so soft. I am hoping for more colors soon!</p>",
+            "author": "Jasmine B.",
+            "author_info": "Boise, ID"
+          }
+        },
+        "testimonial_h9akw7": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I have planted 3 trees now HA! Hopefully, they restock soon so I can buy more :) Happy to support this new company that takes care of the planet &lt;3</p>",
+            "author": "Maya C.",
+            "author_info": "Eugene, OR"
+          }
+        },
+        "testimonial_dNA4wR": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Gonna be real. These are the most expensive shirts I own. But they are solidly worth it. They are insanely soft and durable. And always happy to support an eco startup!</p>",
+            "author": "Jade L.",
+            "author_info": "Santa Fe, NM"
+          }
+        },
+        "testimonial_3mYt6b": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Obsessed with my Roam t-shirt. Super soft, fits great, and I love that it helps plant trees. Stylish, comfy, and sustainable — what more could you want?</p>",
+            "author": "Sierra J.",
+            "author_info": "Boulder, CO"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial_h9akw7",
+        "testimonial_dNA4wR",
+        "testimonial_3mYt6b"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "What our customers have to say...",
+        "round_images": true,
+        "color_background": "#f4f4f4",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "background_image_text_fMBYEX": {
+      "type": "background-image-text",
+      "disabled": true,
+      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
+      "settings": {
+        "subtitle": "Family owned production",
+        "title": "Meet our happy indians",
+        "text": "<p>Add words from the factory and more inforamtion here about how awsome it is</p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/neil-de-souza-7OwRdmY3_SE-unsplash.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "Why Bamboo?",
+            "text": "<p>Bamboo isn’t just soft — it’s one of the planet’s most sustainable plants. It grows fast without pesticides, restores soil, and produces more oxygen than trees. Good for you, even better for the Earth.</p>"
+          }
+        },
+        "text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Supporting Women in Nature",
+            "text": "<p>Help us meet our goal of selling 5,000 shirts and we will make a $5,000 donation to womenswilderness.org</p>"
+          }
+        },
+        "text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "Happy Customers = Happy Company",
+            "text": "<p>If you have any problems with your order, questions about our company, or just want to chat about hiking - send us an email. We love hearing from you and want to make sure you come back again and again. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block-1",
+        "text_block-2",
+        "text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title": "Join the Journey",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get early access to new drops, tree-planting updates, and exclusive offers for the Roam Wear community.<br/><br/>Because roaming with purpose should come with perks 🌿</p>"
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "text",
+        "form"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "fading-images",
+    "background-image-text",
+    "featured-product",
+    "testimonials",
+    "background_image_text_fMBYEX",
+    "text-with-icons",
+    "newsletter"
+  ]
+}

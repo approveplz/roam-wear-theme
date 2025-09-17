@@ -1,0 +1,230 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "goodapi_sprout_badge_aL3edU": {
+          "type": "shopify://apps/goodapi-sprout/blocks/badge/7db5ee24-2195-4099-b98e-1547c600e4aa",
+          "settings": {
+            "custom_classes": "",
+            "top_spacing": 0,
+            "bottom_spacing": 0
+          }
+        },
+        "judge_me_reviews_preview_badge_NFQGi8": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "goodapi_sprout_badge_aL3edU",
+        "judge_me_reviews_preview_badge_NFQGi8",
+        "description",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "testimonials_ajFnXE": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_EFWYFt": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I'm obsessed with these eco-friendly tees - worth every penny for their soft, stylish feel & responsible production. Supporting a startup that prioritizes people and planet? Absolutely priceless!</p>",
+            "author": "Lena R.",
+            "author_info": "Asheville, NC"
+          }
+        },
+        "testimonial_NBqGzd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Love this t-shirt. Wore it all day yesterday while hanging with my grandkids. I had a pink one arrive in the mail and put it on this morning. These shirts are so comfortable and so soft. I am hoping for more colors soon!</p>",
+            "author": "Jasmine B.",
+            "author_info": "Boise, ID"
+          }
+        },
+        "testimonial_ENqwcF": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I have planted 3 trees now HA! Hopefully, they restock soon so I can buy more :) Happy to support this new company that takes care of the planet &lt;3</p>",
+            "author": "Maya C.",
+            "author_info": "Eugene, OR"
+          }
+        },
+        "testimonial_AYGFCn": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Gonna be real. These are the most expensive shirts I own. But they are solidly worth it. They are insanely soft and durable. And always happy to support an eco startup!</p>",
+            "author": "Jade L.",
+            "author_info": "Santa Fe, NM"
+          }
+        },
+        "testimonial_mVaniT": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Obsessed with my Roam t-shirt. Super soft, fits great, and I love that it helps plant trees. Stylish, comfy, and sustainable — what more could you want?</p>",
+            "author": "Sierra J.",
+            "author_info": "Boulder, CO"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_EFWYFt",
+        "testimonial_NBqGzd",
+        "testimonial_ENqwcF",
+        "testimonial_AYGFCn",
+        "testimonial_mVaniT"
+      ],
+      "settings": {
+        "title": "What our customers have to say...",
+        "round_images": true,
+        "color_background": "#f4f4f4",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "background_image_text_dAEyXt": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Sustainable Clothing",
+        "title": "For every shirt you buy, we plant a tree.",
+        "text": "<p>We're committed to restoring forests, using sustainable fabrics, reducing our carbon footprint, and creating a healthier environment for everyone. By choosing Roam Wear, you're not just buying a t-shirt; you're investing in the health of our planet, one tree at a time.</p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/dan-otis-OYFHT4X5isg-unsplash.jpg",
+        "layout": "left",
+        "height": 650,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 4,
+        "products_per_row": 3
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "175465663895b972fd": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_tqePkX": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_tqePkX"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "testimonials_ajFnXE",
+    "background_image_text_dAEyXt",
+    "sub",
+    "product-recommendations",
+    "collection-return",
+    "175465663895b972fd"
+  ]
+}
