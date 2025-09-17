@@ -20,6 +20,12 @@
           "type": "separator",
           "settings": {}
         },
+        "size_chart_ftGpKU": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "sizing-chart"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -79,6 +85,7 @@
       "block_order": [
         "price",
         "separator",
+        "size_chart_ftGpKU",
         "variant_picker",
         "inventory_status",
         "buy_buttons",
@@ -208,7 +215,9 @@
           }
         }
       },
-      "block_order": ["judge_me_reviews_review_widget_tqePkX"],
+      "block_order": [
+        "judge_me_reviews_review_widget_tqePkX"
+      ],
       "disabled": true,
       "settings": {
         "full_width": false,
