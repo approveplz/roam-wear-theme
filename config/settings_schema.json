@@ -916,5 +916,32 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Material Details",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Global Material Details Settings"
+      },
+      {
+        "type": "text",
+        "id": "material_details_title",
+        "label": "Toggle Title",
+        "default": "Material Details"
+      },
+      {
+        "type": "richtext",
+        "id": "material_details_bamboo",
+        "label": "Bamboo Details",
+        "default": "<h4>Bamboo</h4><p>Our bamboo fabric is incredibly soft, naturally antibacterial, and moisture-wicking. It's also one of the most sustainable materials on the planet, growing 35% faster than trees and requiring no pesticides.</p>"
+      },
+      {
+        "type": "richtext",
+        "id": "material_details_rayon",
+        "label": "Rayon Details",
+        "default": "<h4>Rayon</h4><p>Rayon provides durability and helps the fabric maintain its shape while keeping the natural softness and breathability. Our rayon is sourced responsibly to complement the bamboo fibers.</p>"
+      }
+    ]
   }
 ]
