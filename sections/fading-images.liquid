@@ -100,6 +100,7 @@
             {%- liquid
               if forloop.index == 1
                 assign loading = section.settings.lazyload_images
+                assign fetchpriority = 'high'
               else
                 assign loading = true
               endif
@@ -109,6 +110,7 @@
             {%- render 'image-element',
               img: block.settings.image,
               loading: loading,
+              fetchpriority: fetchpriority,
               classes: classes,
               animation: 'none'
             -%}
