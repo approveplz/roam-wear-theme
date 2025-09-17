@@ -21,9 +21,7 @@
           }
         }
       },
-      "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_Kg8KxJ"
-      ],
+      "block_order": ["klaviyo_email_marketing_sms_form_embed_block_Kg8KxJ"],
       "settings": {
         "full_width": true,
         "space_around": false
@@ -40,9 +38,7 @@
           }
         }
       },
-      "block_order": [
-        "logo_social_wRR6J4"
-      ],
+      "block_order": ["logo_social_wRR6J4"],
       "settings": {
         "show_locale_selector": true,
         "show_currency_selector": true,
@@ -93,11 +89,7 @@
           }
         }
       },
-      "block_order": [
-        "promotion-1",
-        "promotion-2",
-        "promotion-3"
-      ],
+      "block_order": ["promotion-1", "promotion-2", "promotion-3"],
       "disabled": true,
       "settings": {
         "hide_homepage": true,
@@ -105,9 +97,5 @@
       }
     }
   },
-  "order": [
-    "1757628809dc48dc39",
-    "footer",
-    "footer-promotions"
-  ]
+  "order": ["1757628809dc48dc39", "footer", "footer-promotions"]
 }

@@ -90,10 +90,5 @@
       "settings": {}
     }
   },
-  "order": [
-    "main",
-    "sub",
-    "product-recommendations",
-    "collection-return"
-  ]
+  "order": ["main", "sub", "product-recommendations", "collection-return"]
 }

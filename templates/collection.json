@@ -80,10 +80,7 @@
           }
         }
       },
-      "block_order": [
-        "collection_description",
-        "product_grid"
-      ],
+      "block_order": ["collection_description", "product_grid"],
       "disabled": true,
       "settings": {
         "collection_image_enable": true,
@@ -98,8 +95,5 @@
       }
     }
   },
-  "order": [
-    "featured_product_zcAHDa",
-    "main-collection"
-  ]
+  "order": ["featured_product_zcAHDa", "main-collection"]
 }

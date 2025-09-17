@@ -22,9 +22,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "slideshow-0"
-      ],
+      "block_order": ["slideshow-0"],
       "settings": {}
     },
     "rich-text": {
@@ -39,10 +37,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "heading",
-        "text"
-      ],
+      "block_order": ["heading", "text"],
       "settings": {}
     },
     "map": {
@@ -65,11 +60,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
+      "block_order": ["column1", "column2", "column3"],
       "settings": {}
     },
     "featured-collection": {

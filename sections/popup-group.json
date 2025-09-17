@@ -20,9 +20,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "reminder-block"
-      ],
+      "block_order": ["reminder-block"],
       "settings": {},
       "disabled": true
     },
@@ -32,8 +30,5 @@
       "disabled": true
     }
   },
-  "order": [
-    "newsletter-popup",
-    "age-verification-popup"
-  ]
+  "order": ["newsletter-popup", "age-verification-popup"]
 }

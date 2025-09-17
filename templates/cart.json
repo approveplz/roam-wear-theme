@@ -34,18 +34,12 @@
           }
         }
       },
-      "block_order": [
-        "reconvert_slot_NVm6JA"
-      ],
+      "block_order": ["reconvert_slot_NVm6JA"],
       "settings": {
         "full_width": false,
         "space_around": true
       }
     }
   },
-  "order": [
-    "main",
-    "featured-collection",
-    "17571247763052d911"
-  ]
+  "order": ["main", "featured-collection", "17571247763052d911"]
 }

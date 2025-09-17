@@ -37,11 +37,7 @@
           }
         }
       },
-      "block_order": [
-        "image-1",
-        "image-3",
-        "image-2"
-      ],
+      "block_order": ["image-1", "image-3", "image-2"],
       "settings": {
         "title_lines": "1",
         "title_font": "heading",
@@ -247,11 +243,7 @@
           }
         }
       },
-      "block_order": [
-        "text_block-1",
-        "text_block-2",
-        "text_block-3"
-      ],
+      "block_order": ["text_block-1", "text_block-2", "text_block-3"],
       "settings": {
         "title": "",
         "align_text": "center",
@@ -283,11 +275,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "title",
-        "text",
-        "form"
-      ],
+      "block_order": ["title", "text", "form"],
       "disabled": true,
       "settings": {
         "align_text": "center",

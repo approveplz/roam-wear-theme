@@ -44,8 +44,5 @@
       }
     }
   },
-  "order": [
-    "main",
-    "featured-collections"
-  ]
+  "order": ["main", "featured-collections"]
 }

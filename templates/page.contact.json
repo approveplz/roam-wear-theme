@@ -31,10 +31,7 @@
           }
         }
       },
-      "block_order": [
-        "heading",
-        "text"
-      ],
+      "block_order": ["heading", "text"],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -51,9 +48,5 @@
       }
     }
   },
-  "order": [
-    "main",
-    "rich-text",
-    "form"
-  ]
+  "order": ["main", "rich-text", "form"]
 }

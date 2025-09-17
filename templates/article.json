@@ -20,8 +20,5 @@
       }
     }
   },
-  "order": [
-    "main",
-    "blog-posts"
-  ]
+  "order": ["main", "blog-posts"]
 }

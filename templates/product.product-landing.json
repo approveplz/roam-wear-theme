@@ -100,10 +100,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "slideshow-0",
-        "slideshow-1"
-      ],
+      "block_order": ["slideshow-0", "slideshow-1"],
       "settings": {
         "section_height": "550px",
         "parallax": false
@@ -135,11 +132,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "testimonials-0",
-        "testimonials-1",
-        "testimonials-2"
-      ],
+      "block_order": ["testimonials-0", "testimonials-1", "testimonials-2"],
       "settings": {}
     },
     "faq": {
@@ -158,11 +151,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "faq-0",
-        "faq-1",
-        "faq-2"
-      ],
+      "block_order": ["faq-0", "faq-1", "faq-2"],
       "settings": {}
     },
     "hero-video": {

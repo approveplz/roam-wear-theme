@@ -120,11 +120,7 @@
           "settings": {}
         }
       },
-      "block_order": [
-        "testimonials-0",
-        "testimonials-1",
-        "testimonials-2"
-      ],
+      "block_order": ["testimonials-0", "testimonials-1", "testimonials-2"],
       "settings": {}
     }
   },
