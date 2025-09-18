@@ -96,13 +96,14 @@
             data-slide-title2="{{ block.settings.slide_title2 }}"
             {{ block.shopify_attributes }}
           >
-            {% comment %} Full width images so don't need to adjust sizes attribute, fallback is 100vw {% endcomment %}
+            {% comment %} Now optimized globally via image-element.liquid defaults {% endcomment %}
             {%- liquid
               if forloop.index == 1
                 assign loading = section.settings.lazyload_images
                 assign fetchpriority = 'high'
               else
                 assign loading = true
+                assign fetchpriority = blank
               endif
 
               assign classes = 'fading-images__item fading-images__item--' | append: block.id
@@ -112,6 +113,7 @@
               loading: loading,
               fetchpriority: fetchpriority,
               classes: classes,
+              sizes: '(max-width: 480px) 300px, (max-width: 767px) 500px, 100vw',
               animation: 'none'
             -%}
           </div>

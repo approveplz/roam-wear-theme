@@ -95,6 +95,11 @@
 
   # Add a class to the image so we can target theme images
   assign classes = classes | append: ' image-element'
+
+  # Set default responsive widths if none provided (mobile-first optimization)
+  if widths == blank
+    assign widths = '375,550,750,1100,1500,1780,2000,3000'
+  endif
 %}
 
 <image-element data-aos="{{ animation }}" data-aos-offset="150">
