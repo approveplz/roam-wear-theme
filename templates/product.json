@@ -70,6 +70,10 @@
             "is_tab": false
           }
         },
+        "material_details_d3FkVj": {
+          "type": "material_details",
+          "settings": {}
+        },
         "contact": {
           "type": "contact",
           "settings": {
@@ -92,6 +96,7 @@
         "goodapi_sprout_badge_aL3edU",
         "judge_me_reviews_preview_badge_NFQGi8",
         "description",
+        "material_details_d3FkVj",
         "contact",
         "share"
       ],

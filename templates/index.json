@@ -121,6 +121,10 @@
           "settings": {
             "is_tab": false
           }
+        },
+        "material_details_4mc7xB": {
+          "type": "material_details",
+          "settings": {}
         }
       },
       "block_order": [
@@ -130,7 +134,8 @@
         "variant_picker",
         "buy_buttons",
         "goodapi_sprout_badge_dir3KF",
-        "description"
+        "description",
+        "material_details_4mc7xB"
       ],
       "settings": {
         "featured_product": "organic-bamboo-t-shirt",
