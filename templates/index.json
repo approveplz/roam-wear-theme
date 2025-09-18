@@ -20,18 +20,18 @@
             "slide_title2": ""
           }
         },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/header_image.png",
-            "slide_title1": "SUSTAINABLE",
-            "slide_title2": ""
-          }
-        },
         "image-2": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/kristijan-arsov-URwxiTBU0po-unsplash.jpg",
+            "slide_title1": "SUSTAINABLE",
+            "slide_title2": ""
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fading-3_1.jpg",
             "slide_title1": "#BUILTTOROAM",
             "slide_title2": ""
           }
@@ -39,8 +39,8 @@
       },
       "block_order": [
         "image-1",
-        "image-3",
-        "image-2"
+        "image-2",
+        "image-3"
       ],
       "settings": {
         "title_lines": "1",
@@ -50,7 +50,7 @@
         "title_bg_color": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "link": "",
-        "slide_speed": 4,
+        "slide_speed": 3,
         "color_overlay": "#000000",
         "color_overlay_opacity": 6,
         "desktop_height": "100vh",
