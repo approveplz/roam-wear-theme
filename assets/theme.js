@@ -7458,28 +7458,16 @@ if (console && console.log) {
         firstImage.classList.add(classes.activeImage);
         firstImage.classList.add(classes.compensation);
 
-        // Get the actual img element inside the wrapper
-        var imgElement = firstImage.querySelector('img');
-        
-        // Begin timer - wait for image load OR use fallback timeout
-        var startTimer = function() {
-          this.imageInterval = setInterval(
-            this.nextImage.bind(this),
-            this.data.interval,
-          );
-        }.bind(this);
-
-        if (imgElement && !imgElement.complete) {
-          // Image not loaded yet - wait for it
-          var onLoad = function() {
-            imgElement.removeEventListener('load', onLoad);
-            startTimer();
-          };
-          imgElement.addEventListener('load', onLoad);
-        } else {
-          // Image already loaded or no image - use original timing
-          window.setTimeout(startTimer, this.data.timer_offset);
-        }
+        // Begin timer
+        window.setTimeout(
+          function () {
+            this.imageInterval = setInterval(
+              this.nextImage.bind(this),
+              this.data.interval,
+            );
+          }.bind(this),
+          this.data.timer_offset,
+        );
       },
 
       startTitles: function () {
